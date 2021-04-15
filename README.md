@@ -1,11 +1,10 @@
 ### Hi There👋 I am Emir Avci!
-<!---
+
 🔭 I am interested in Python/Machine Learning/ Data Science!
 
 🏫 First year CS student at University of Calgary
 
 🔑 18 years old
---->
 
 ### About Me
 
