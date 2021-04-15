@@ -1,5 +1,5 @@
 ![Name](https://user-images.githubusercontent.com/53044008/114941969-85894100-9e4c-11eb-9528-4139bab5ff1d.png)
-### Hi There👋 I am Selcuk Emir Avci !
+### Hi There👋 I am Emir Avci !
 
 🔭 I am interested in Python/Machine Learning/ Data Science!
 
