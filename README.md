@@ -1,4 +1,4 @@
-### Hi There👋 I am Emir Avci!
+### Hi There👋 I am Selcuk Emir Avci !
 
 🔭 I am interested in Python/Machine Learning/ Data Science!
 
