@@ -7,7 +7,7 @@
 
 🔑 18 years old
 
-### About Me
+## About Me
 
 I am 18 years old. I am interested in Software Development. My interest started at an early age with Arduino boards! I am trying to improve myself everyday.
 I am hoping to work in Data Science field in the future!
