@@ -3,7 +3,7 @@
 
 🔭 I am interested in Python/Machine Learning/ Data Science!
 
-🏫 First year CS student at University of Calgary
+🏫 Second year CS student at University of Calgary
 
 🔑 18 years old
 
