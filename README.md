@@ -17,4 +17,4 @@ I am hoping to work in Data Science field in the future!
 
 [My Linkedin Profile](https://www.linkedin.com/in/selcukemiravci/)
 
-##![](https://komarev.com/ghpvc/?username=emiravc)
+![](https://komarev.com/ghpvc/?username=emiravc)
