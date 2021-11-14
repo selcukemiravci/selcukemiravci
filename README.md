@@ -4,7 +4,7 @@
 
 🏫 Second year CS student at University of Calgary
 
-🔑 18 years old
+🔑 19 years old
 
 ## About Me
 
