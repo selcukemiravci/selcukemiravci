@@ -34,7 +34,7 @@ Feel free to ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b>
 <i>Follow me around the web:</i><br>
 
 ![](https://komarev.com/ghpvc/?username=emiravc)
-<a href="https://www.linkedin.com/in/selcukemiravci/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/selcukemiravci/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5..svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/emr_avc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/emr_avc?si=4e19a5616e544486" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
