@@ -18,3 +18,7 @@ I am hoping to work in Data Science, Machine Learning or Cyber Security field in
 [My Linkedin Profile](https://www.linkedin.com/in/selcukemiravci/)
 
 ![](https://komarev.com/ghpvc/?username=emiravc)
+
+<!-- [🇱​🇮​🇳​🇰​🇪​🇩​🇮​🇳​](https://www.linkedin.com/in/selcukemiravci/) ● [🇮​🇳​🇸​🇹​🇦​🇬​🇷​🇦​🇲​](https://www.instagram.com/emr_avc/) ●  ● [🇸​🇵​🇴​🇹​🇮​🇫​🇾​](https://open.spotify.com/user/emr_avc?si=4e19a5616e544486) -->
+
+<!--
