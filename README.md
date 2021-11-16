@@ -12,7 +12,7 @@ I am currently a full time 2nd-year student at the University of Calgary, majori
 Feel free to ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>.
 </p>
 
-##Languages and Tools
+## Languages and Tools
 
 <p> 
   <a href="https://www.w3.org/html/" target="_blank"> 
