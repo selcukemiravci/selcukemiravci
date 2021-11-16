@@ -10,9 +10,6 @@
 
 I am 19 years old. I am interested in Software Development. My interest started at an early age with Arduino boards! I am trying to improve myself everyday.
 I am hoping to work in Data Science, Machine Learning or Cyber Security field in the future!
-
-## What do I do for fun?
-🏋️ I love working-out and playing basketball. 
 ---
 <i>Follow me around the web:</i><br>
 ![](https://komarev.com/ghpvc/?username=emiravc)
