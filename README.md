@@ -8,7 +8,8 @@
 
 ## About Me
 <p>
-I am 19 years old  and very enthuastic in Software Development. My interest started at an early age with Arduino boards! I am always trying to improve myself everyday.I am hoping to work in Data Science, Machine Learning or Cyber Security field in the future!
+I am 19 years old  and very enthuastic in Software Development. I am always trying to improve myself everyday.I am hoping to work in Data Science, Machine Learning or Cyber Security field in the future!<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything <a href="mailto:absphreak@outlook.com"><b>email</b></a> me
 </p>
 
 ---
