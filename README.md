@@ -7,11 +7,12 @@
 🔑 19 years old
 
 ## About Me
-
+<div align="center">
 I am 19 years old. I am interested in Software Development. My interest started at an early age with Arduino boards! I am trying to improve myself everyday.
 I am hoping to work in Data Science, Machine Learning or Cyber Security field in the future!
+ </div>
 ---
-Follow me around the web:
+<i>Follow me around the web:</i><br>
 ![](https://komarev.com/ghpvc/?username=emiravc)
 <a href="(https://www.linkedin.com/in/selcukemiravci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/emr_avc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
