@@ -12,9 +12,9 @@ I am currently a full time 2nd-year student at the University of Calgary, majori
 Feel free to ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>.
 </p>
 
-<h3>Languages and Tools:</h3>
+<h3>Languages and Tools</h3>
 
-<p align="center"> 
+<p> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
   </a>
