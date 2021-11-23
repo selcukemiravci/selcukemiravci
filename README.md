@@ -27,7 +27,9 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   <a href="https://www.oracle.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
+  <p> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
 </p>
+
 
 ---
 
@@ -39,4 +41,3 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 <a href="https://open.spotify.com/user/emr_avc?si=4e19a5616e544486" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
 
 ---
-<p> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
