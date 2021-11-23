@@ -28,7 +28,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />---
+<p> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />---
 
 <i>Follow me around the web:</i><br>
 
