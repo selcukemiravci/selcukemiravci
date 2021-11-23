@@ -28,7 +28,6 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
 </p>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiravc)](https://github.com/emiravc/emiravc/README.md)
 ---
 
 <i>Follow me around the web:</i><br>
