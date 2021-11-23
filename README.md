@@ -32,7 +32,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 ## My Github Stats
 
 <p align=center> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiravc&langs_count=8)](https://github.com/emiravc/emiravc)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emiravc&langs_count=8)](https://github.com/emiravc/emiravc/README.md)
 
 ---
 
