@@ -29,6 +29,9 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   </a> 
 </p>
 
+## My Github Stats
+
+<p align=center> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
 
 ---
 
