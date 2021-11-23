@@ -27,7 +27,6 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   <a href="https://www.oracle.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a> 
-  <p align=center> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
 </p>
 
 
@@ -39,5 +38,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 <a href="https://www.linkedin.com/in/selcukemiravci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/emr_avc/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://open.spotify.com/user/emr_avc?si=4e19a5616e544486" target="_blank"><img src="https://img.shields.io/badge/Spotify-%231ED760.svg?&style=flat-square&logo=spotify&logoColor=white" alt="Spotify"></a>
+
+ <p align=center> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
 
 ---
