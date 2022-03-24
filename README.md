@@ -8,7 +8,7 @@
 
 ## About Me
 <p>
-I am currently a full time 2nd-year student at the University of Calgary, majoring in Computer Science.<br> I am very enthuastic about Data Science, Blockchain and Cyber Security.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+I am currently a full time 2nd-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about Data Science, Blockchain and Cyber Security.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 </p>
 
