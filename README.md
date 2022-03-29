@@ -1,7 +1,6 @@
 ![Logo](https://user-images.githubusercontent.com/53044008/114941969-85894100-9e4c-11eb-9528-4139bab5ff1d.png)
 ### Hi There👋 I am Emir Avci !
-🔭 I am interested in Cyber Security/Blockchain/ Data Science!
-
+🔭 I am interested in Cyber Security/Blockchain/ Machine Learning!
 🏫 Second year CS student at University of Calgary
 
 🔑 19 years old
