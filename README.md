@@ -38,6 +38,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=emiravc&show_icons=true&theme=gotham" alt="emiravc" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emiravc&hide_border=true&layout=theme=gotham" align="left" style="width: 100%" />
 ---
 
 <i>Follow me around the web:</i><br>
