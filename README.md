@@ -1,13 +1,13 @@
 ![Logo](https://user-images.githubusercontent.com/53044008/114941969-85894100-9e4c-11eb-9528-4139bab5ff1d.png)
 ### Hi There👋 I am Emir Avci !
 🔭 I am interested in Cyber Security/Blockchain/ Machine Learning!
-🏫 Second year CS student at University of Calgary
+🏫 Third year CS student at University of Calgary
 
 🔑 19 years old
 
 ## About Me
 <p>
-I am currently a full time 2nd-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about Data Science, Blockchain and Cyber Security.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+I am currently a full time 3rd-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about Machine Learning, Blockchain and Cyber Security.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 </p>
 
