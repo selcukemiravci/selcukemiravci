@@ -3,8 +3,6 @@
 🔭 I am interested in Blockchain Development!
 🏫 Third year CS student at University of Calgary
 
-🔑 19 years old
-
 ## About Me
 <p>
 I am currently a full time 3rd-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about web3 and Blockchain Development.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
