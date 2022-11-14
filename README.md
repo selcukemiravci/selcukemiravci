@@ -13,9 +13,6 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
 ## Languages and Tools
 
 <p> 
-  <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
   <a href="https://www.oracle.com/java/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
   </a>
@@ -24,7 +21,10 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   </a> 
    <a href="https://www.javascript.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
+  </a>
+   <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
   <a href="https://www.w3schools.com/typescript/" target="_blank"> 
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> 
   </a> 
@@ -34,7 +34,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
-   <a href="https://www.w3schools.com/solidity/" target="_blank"> 
+   <a href="https://soliditylang.org/" target="_blank"> 
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
