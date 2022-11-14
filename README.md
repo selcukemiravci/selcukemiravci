@@ -34,8 +34,10 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
   <a href="https://www.w3schools.com/css/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
+   <a href="https://www.w3schools.com/solidity/" target="_blank"> 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png?20201202112837" alt="css3" width="40" height="40"/> 
+  </a> 
 </p>
-
 ## My Github Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=selcukemiravci&show_icons=true&theme=gotham" alt="selcukemiravci" />
