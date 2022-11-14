@@ -35,7 +35,7 @@ Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
   </a> 
    <a href="https://www.w3schools.com/solidity/" target="_blank"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/386px-Solidity_logo.svg.png?20201202112837" alt="css3" width="40" height="40"/> 
+    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
 ## My Github Stats
