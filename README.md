@@ -1,12 +1,12 @@
 ### Hi There👋 I am Emir Avci !
 🔭 I am interested in Blockchain Development!
 
-🏫 Third year CS student at University of Calgary
+🏫 Fourth year CS student at University of Calgary
 
 ## About Me
 <p>
-I am currently a full time 3rd-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about web3 and Blockchain Development.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything via <a href="mailto:emiravc@gmail.com"><b>email</b></a>!
+I am currently a full time 4th-year student at the University of Calgary, majoring in Computer Science and minoring in Data Science, Management and Society.<br> I am very enthuastic about web3 and Blockchain Development.<br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Ask me anything via <a href="mailto:contact@selcukemiravci.com"><b>email</b></a>!
 </p>
 
 ## Languages and Tools
