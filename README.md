@@ -41,8 +41,9 @@ Ask me anything via <a href="mailto:contact@selcukemiravci.com"><b>email</b></a>
 ## My Github Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=selcukemiravci&show_icons=true&theme=gotham" alt="selcukemiravci" />
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcukemiravci&langs_count=8)
----
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+  ---
 
 <i>Follow me around the web:</i><br>
 
