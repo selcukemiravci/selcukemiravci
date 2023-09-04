@@ -37,10 +37,11 @@ Ask me anything via <a href="mailto:contact@selcukemiravci.com"><b>email</b></a>
     <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="css3" width="40" height="40"/> 
   </a> 
 </p>
+
 ## My Github Stats
 
 <p> <img src="https://github-readme-stats.vercel.app/api?username=selcukemiravci&show_icons=true&theme=gotham" alt="selcukemiravci" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=selcukemiravci&langs_count=8)
 ---
 
 <i>Follow me around the web:</i><br>
