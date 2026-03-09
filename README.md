@@ -2,7 +2,7 @@
 
 ## About Me
 <p>
-Currently I am working on GenAI verifiability at Momenta to help enterprises simulate and detect deepfake attacks to prevent fraud before it happens.<br> Previously wore various hats in the intersection of Blockchain and AI to launch products, grow ecosystems from 0 to 1 at leading teams. I've majored in Computer Science at the University of Calgary with minors in Data Science, Management and Society. <br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+Currently I am working on GenAI verifiability at Momenta to help enterprises simulate and detect deepfake attacks to prevent fraud before it happens.Previously wore various hats in the intersection of Blockchain and AI to launch products, grow ecosystems from 0 to 1 at leading teams. <br> I've majored in Computer Science at the University of Calgary with minors in Data Science, Management and Society. <br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything via <a href="mailto:contact@selcukemiravci.com"><b>email</b></a>!
 </p>
 
