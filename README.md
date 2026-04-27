@@ -8,7 +8,7 @@
 
 I build at the intersection of **AI security, deepfake detection, fraud prevention, and financial infrastructure**.
 
-Currently, I’m building **Momenta**, where we are developing systems that help enterprises simulate, detect, and respond to deepfake-enabled threats across voice, video, and identity workflows.
+Currently, I’m building **[Momenta](https://momenta.network/)**, where we are developing systems that help enterprises simulate, detect, and respond to deepfake-enabled threats across voice, video, and identity workflows.
 
 I started shipping products early — launching my first business at 13, later winning a national robotics competition, and earning over **$100K USD across competitions, grants, and hackathons**. I studied Computer Science at the University of Calgary, with minors in DS and Business Management, and helped launch the University’s DeFi Lab and credited DeFi program, where I taught thousands of students and community members about emerging technologies in distributed computing and AI.
 
