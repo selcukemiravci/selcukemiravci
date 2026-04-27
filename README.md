@@ -1,44 +1,56 @@
-### Hi There 👋 I am Emir Avci !
+<h1 align="center">Emir Avci</h1>
 
-## About Me
+<p align="center">
+  Building AI-native fraud infrastructure across voice, video, and identity.
+</p>
+
+### About me
+
+I am building at the intersection of **AI security, deepfake detection, fraud prevention, and financial infrastructure**.
+
+Currently, I’m building **Momenta**, where we are developing systems that help enterprises simulate, detect, and respond to deepfake-enabled threats across voice, video, and identity workflows.
+
+I started shipping products early — launching my first business at 13, later winning a national robotics competition, and earning over **$100K USD across competitions, grants, and hackathons**. I studied Computer Science at the University of Calgary, with minors in DS and Business Management, and helped launch the University’s DeFi Lab and credited DeFi program, where I taught thousands of students and community members about emerging technologies in distributed computing and AI.
+
+Previously, I worked across AI, crypto, fintech, and developer ecosystems, including roles spanning **DevRel, technical product management, and product engineering**. My work has covered digital asset custody, stablecoin/payment infrastructure, agent developer ecosystems, and AI/blockchain applications across [Systemic Trust Custody](https://systemictrust.com), [Ripple](https://ripple.com/), [MEXC](https://www.mexc.com/), and [Superior Trade](https://www.superior.trade/).
+
+I enjoy building practical technical products in markets where new infrastructure is becoming necessary — especially AI security, fraud prevention, crypto infrastructure, and financial systems.
+
+---
+
+### Current focus
+
+- Building AI-native fraud prevention infrastructure
+- Designing deepfake phishing and impersonation simulation systems
+- Exploring real-time voice and video detection workflows
+- Working on enterprise security, compliance, and fraud risk use cases
+- Shipping products at the edge of AI, security, and financial infrastructure
+
+---
+
+### Languages & tools
+
 <p>
-Currently I am working on AI Fraud prevention at Momenta to help enterprises simulate and detect deepfake attacks to prevent fraud before it happens.Previously wore various hats in the intersection of Blockchain and AI to launch products, grow ecosystems from 0 to 1 at leading teams. <br> I've majored in Computer Science at the University of Calgary with minors in Data Science, Management and Society. <br>Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything via <a href="mailto:contact@selcukemiravci.com"><b>email</b></a>!
-</p>
-
-## Languages and Tools
-
-<p> 
-  <a href="https://www.oracle.com/java/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> 
-  </a> 
-   <a href="https://www.javascript.com/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-   <a href="https://www.python.org" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>  
-  <a href="https://www.w3schools.com/typescript/" target="_blank"> 
-    <img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" alt="typescript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-   <a href="https://soliditylang.org/" target="_blank"> 
-    <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" alt="css3" width="40" height="40"/> 
-  </a> 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
 ---
 
-<i>Follow me around the web:</i><br>
 
-![](https://komarev.com/ghpvc/?username=selcukemiravci)
-<a href="https://www.linkedin.com/in/selcukemiravci/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>  
----
+### Connect
+
+I’m always interested in AI security, deepfake detection, fraud prevention, crypto infrastructure, and ambitious technical products.
+
+<p>
+  <a href="https://www.linkedin.com/in/selcukemiravci/">LinkedIn</a> ·
+  <a href="https://medium/@selcukemiravci/">Medium</a> ·
+  <a href="mailto:contact@selcukemiravci.com">Email</a>
+</p>
