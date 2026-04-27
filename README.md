@@ -6,7 +6,7 @@
 
 ### About me
 
-I am building at the intersection of **AI security, deepfake detection, fraud prevention, and financial infrastructure**.
+I build at the intersection of **AI security, deepfake detection, fraud prevention, and financial infrastructure**.
 
 Currently, I’m building **Momenta**, where we are developing systems that help enterprises simulate, detect, and respond to deepfake-enabled threats across voice, video, and identity workflows.
 
