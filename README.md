@@ -8,9 +8,9 @@
 
 I've shipped 0-to-1 products in AI and financial infrastructure. These days, most of my time goes into getting AI into production at banks and security teams.
 
-I co-founded **[Momenta](https://momenta.network/)**, where we detect deepfakes across voice and video and run AI agents that attack companies the way real fraudsters would, so they can close the gaps first. Our detector is #1 on Hugging Face.
+I co-founded **[Momenta](https://momenta.network/)**. We build deepfake detection for voice and video, and AI-driven red team simulations: OSINT and deepfake agents that research a company and attack it the way real fraudsters would, so security teams can close the gaps first. Our audio detector was ranked #1 on Hugging Face ([how we benchmarked it](https://momenta.network/blog/audio-deepfake-detection-2026)).
 
-Before this: an OSS agent frameworks at [Eigenform](https://www.eigenform.ai/), custody and payments infrastructure at [Systemic Trust](https://systemictrust.com), and developer products at [Ripple](https://ripple.com/).
+Before this: an open-source agent framework at [Eigenform](https://www.eigenform.ai/), custody and payments infrastructure at [Systemic Trust](https://systemictrust.com), and developer products at [Ripple](https://ripple.com/).
 
 Shipping since 13. $100K+ in competition and hackathon wins. CS at UCalgary.
 
@@ -27,12 +27,20 @@ I also build open source side projects, like [runondeck.com](https://runondeck.c
 
 ---
 
+### Writing
+
+- [Audio deepfake detection in 2026](https://momenta.network/blog/audio-deepfake-detection-2026)
+- [Centralized crypto exchanges' journey on Ethereum: a data-driven analysis](https://medium.com/@selcukemiravci/centralized-crypto-exchanges-journey-on-ethereum-a-data-driven-analysis-c434c3b46bd8)
+
+---
+
 ### Languages & tools
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/vLLM-30A2FF?style=for-the-badge" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
