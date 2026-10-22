@@ -30,7 +30,7 @@ I also build open source side projects, like [runondeck.com](https://runondeck.c
 ### Writing
 
 - [Audio deepfake detection in 2026](https://momenta.network/blog/audio-deepfake-detection-2026)
-- [Centralized crypto exchanges' journey on Ethereum: a data-driven analysis](https://medium.com/@selcukemiravci/centralized-crypto-exchanges-journey-on-ethereum-a-data-driven-analysis-c434c3b46bd8)
+- [Centralized crypto exchanges: a data-driven analysis](https://medium.com/@selcukemiravci/centralized-crypto-exchanges-journey-on-ethereum-a-data-driven-analysis-c434c3b46bd8)
 
 ---
 
