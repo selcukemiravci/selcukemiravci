@@ -10,7 +10,7 @@ I've shipped 0-to-1 products in AI and financial infrastructure. These days, mos
 
 I co-founded **[Momenta](https://momenta.network/)**. We build deepfake detection for voice and video, and AI-driven red team simulations: OSINT and deepfake agents that research a company and attack it the way real fraudsters would, so security teams can close the gaps first. Our audio detector was ranked #1 on Hugging Face ([how we benchmarked it](https://momenta.network/blog/audio-deepfake-detection-2026)).
 
-Before this: an open-source agent framework at [Eigenform](https://www.eigenform.ai/), custody and payments infrastructure at [Systemic Trust](https://systemictrust.com), and developer products at [Ripple](https://ripple.com/).
+Before this: open-source agent framework at [Eigenform](https://www.eigenform.ai/), custody and payments infrastructure at [Systemic Trust](https://systemictrust.com), and developer products at [Ripple](https://ripple.com/).
 
 Shipping since 13. $100K+ in competition and hackathon wins. CS at UCalgary.
 
